@@ -1,0 +1,24 @@
+
+//spotify function
+var spotifyThisSong = function(trackQuery){
+    if(trackQuery === undefined){
+        track = "the sign ace of base";
+    }
+        Spotify.search({ type: 'track', value: trackQuery }, function(error, data) {
+            if(error) { // if error
+                console.log('Error occurred: ' + error);
+            } else { // if no error
+                // For loop is for when a track has multiple artists
+                    for(var i = 0; i < data.tracks.items[0].artists.length; i++) {
+                        if(i === 0) {
+                            console.log("Artist(s):    " + data.tracks.items[0].artists[i].name);
+                        } else {
+                            console.log("              " + data.tracks.items[0].artists[i].name);
+                        }
+                    }
+                    console.log("Song:         " + data.tracks.items[0].name);
+                }
+      });
+       console.log(data); 
+       
+};//end spotify function 
