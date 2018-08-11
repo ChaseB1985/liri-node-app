@@ -1,0 +1,85 @@
+-----------------------If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/It's on Netflix!Argument: do-what-it-says. Movie or Song Title: undefined. Movie or Song info: undefined.Argument: spotify-this-song. Movie or Song Title: wings. Movie or Song info: undefined.Argument: spotify-this-song. Movie or Song Title: wings. Movie or Song info: undefined.-----OMDB Log Entry Start-----
+
+Processed on:
+Fri Aug 10 2018 14:46:49 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\Chase\Desktop\liri-node-app\liri.js,movie-this,dallas
+
+Data Output: 
+
+Movie Title: Dallas
+Year: 1978–1991
+IMDB rating: 7.0
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: USA, Canada
+Language: English
+Plot: J.R. Ewing, a Texas oil baron, uses manipulation and blackmail to achieve his ambitions, both business and personal. He often comes into conflict with his brother Bobby, his arch-enemy Cliff Barnes and his long-suffering wife Sue Ellen.
+Actors: Larry Hagman, Ken Kercheval, Patrick Duffy, Linda Gray
+
+-----OMDB Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Fri Aug 10 2018 14:47:20 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\Chase\Desktop\liri-node-app\liri.js,spotify-this-song,wings
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Mac Miller
+Song title: Wings
+Album name: Swimming
+URL Preview: https://p.scdn.co/mp3-preview/a6472c622e4aa5b84dfe23cba787f9d1242abc93?cid=ceff3105dead47459e4437c459184221
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Fri Aug 10 2018 14:48:22 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\Chase\Desktop\liri-node-app\liri.js,do-what-it-says
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album name: The Hits--Chapter One
+URL Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=ceff3105dead47459e4437c459184221
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Fri Aug 10 2018 19:14:10 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\Chase\Desktop\liri-node-app\liri.js,spotify-this-song
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Ace of Base
+Song title: The Sign
+Album name: The Sign (US Album) [Remastered]
+URL Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=ceff3105dead47459e4437c459184221
+=============================
+-----Spotify Log Entry Start-----
+Processed on:
+Fri Aug 10 2018 19:14:10 GMT-0500 (Central Daylight Time)
+
+terminal commands:
+C:\Program Files\nodejs\node.exe,C:\Users\Chase\Desktop\liri-node-app\liri.js,spotify-this-song
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album name: The Hits--Chapter One
+URL Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=ceff3105dead47459e4437c459184221
+=============================
