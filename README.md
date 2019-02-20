@@ -16,10 +16,7 @@ HTTPS:
 ```
 $ git clone https://github.com/ChaseB1985/liri-node-app
 ````
-SSH:
-````
-$ git clone git@github.com:jckmrrssy/liri-node-app.git
-````
+
 
 You will need to add an .env file at the root of the app containing your Spotify API keys. For help getting your own API keys visit:
 ```
